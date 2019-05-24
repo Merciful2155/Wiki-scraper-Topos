@@ -7,8 +7,8 @@
 		exampe:'python3 scrape.py' 
 		
 		
-Note: inorder to run your program you must go to the directory in which it was saved.
-in my case it was my desktop by using the command cd Desktop/.
+Note: Inorder to run your program you must go to the directory in which it was saved.
+In my case it was my desktop by using the command cd Desktop/.
 ![image](https://user-images.githubusercontent.com/15113992/58346795-fb83f980-7e29-11e9-96d5-106b1d69f185.png)
 Then you would want to check the list of all files on desktop to confirm its there using the ls command. 
 ![image](https://user-images.githubusercontent.com/15113992/58346927-73522400-7e2a-11e9-8c60-ee8193045938.png)
